@@ -1,5 +1,6 @@
 This program was developed and edited on the Texas State University Linux server.
-The team for this project includes Rayyan Khan (r_k150@txstate.edu), Rafael Hernandez (reh119@txstate.edu), and myself: Jett Tipsword(jbt71@txstate.edu)/
+The team for this project includes Rayyan Khan (r_k150@txstate.edu), Rafael Hernandez (reh119@txstate.edu), and myself: Jett Tipsword(jbt71@txstate.edu).
+
 Make sure that the Project2_jbt71.cpp file is in the correct directory before proceeding to the next steps.
 
 Once in the correct directory, compile the code using
